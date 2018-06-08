@@ -1,7 +1,7 @@
 <?php /* fichier cnam/nfa083/2017-cf1/inc/entete.inc.php - 20180604-PBO */
 
   function entete($title,$actif) {
-    session_start(); ?>
+     ?>
     <!DOCTYPE html><html lang="fr">
     <head><title><?php echo $title; ?></title>
           <meta charset='UTF-8' />

@@ -13,14 +13,14 @@
            <a href="https://www.gandi.net/fr/simple-hosting" target="_blanck" >Inscription Gandi</a></p>
   </section>
   <section><h2>Informations sur la page index.php</h2>
-           <p><strong>Temps de chargement total en ms( https://tools.pingdom.com/ ): </strong> 2 050 s</p>
-           <p><strong>Temps lié hébergeur (ms) : </strong> 1 200 s</p>
-           <p><strong>Temps lié image (ms) : </strong> 46 ms</p>
-           <p><strong>Temps lié CSS (ms) : </strong> 42 ms</p>
-           <p><strong>Temps lié JS (ms) : </strong> 10 ms</p>
+           <p><strong>Temps de chargement total en ms( https://tools.pingdom.com/ ): </strong> 411ms</p>
+           <p><strong>Temps lié hébergeur (ms) : </strong> ?? s</p>
+           <p><strong>Temps lié image (ms) : </strong> 117 ms</p>
+           <p><strong>Temps lié CSS (ms) : </strong> 40 ms</p>
+           <p><strong>Temps lié JS (ms) : </strong> ?? ms</p>
            <p><strong>Adresse IP d'hébergement de la page question.php 
-           (http://www.mon-ip.com/adresse-ip-site-internet.php) : </strong> 217.70.180.152</p>
-           <p><strong>Nom du serveur d'hébergement de la page index.php : </strong> gpaas12.dc0.gandi.net</p>
+           (http://www.mon-ip.com/adresse-ip-site-internet.php) : </strong> 145.14.144.38</p>
+           <p><strong>Nom du serveur d'hébergement de la page index.php : </strong>www.000webhost.com</p>
   </section>
   <section><h2>Complément d'information</h2>
            <p><strong>Une question complémentaire ? </strong> 

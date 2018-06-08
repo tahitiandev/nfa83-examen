@@ -2,9 +2,15 @@
 
 function connexion($bddname) {
 /* variables de connexion =================================================== */
+    //$serveur = 'localhost';
     $serveur = 'localhost';
     $loginserveur = 'root';
     $mdpserveur = ''; // variables connexion serveur
+
+    // connexion vers l'hergeur
+    //$serveur = 'localhost';
+    //$loginserveur = 'id6117000_root';
+    //$mdpserveur = 'Astuces2017'; // variables connexion serveur
 
 
 /* connexion ================================================================ */

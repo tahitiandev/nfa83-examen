@@ -6,11 +6,11 @@
 
 <!-- PRESENTATION Hébergeur ============================================================== -->
   <section><h2>Informations sur mon hébergeur</h2>
-           <p><strong>Nom : </strong> Gandi</p>
-           <p><strong>Logo : </strong> <img src="img/gandi.jpg" /></p>
-           <p><strong>Siège social : </strong> 63, 65 Boulevard Massena 75013 Paris</p>
+           <p><strong>Nom : </strong>Webhost </p>
+           <p><strong>Logo : </strong> <img src="img/logo.png" /></p>
+           <p><strong>Siège social : </strong> 000Webhost has the Best Free Web Hosting rating of 4.7/5 based on 221 ratings & reviews</p>
            <p><strong>Lien d'inscription : </strong>
-           <a href="https://www.gandi.net/fr/simple-hosting" target="_blanck" >Inscription Gandi</a></p>
+           <a href="https://www.000webhost.com/cpanel-login?from=panel" target="_blanck" >Inscription Webhost</a></p>
   </section>
   <section><h2>Informations sur la page index.php</h2>
            <p><strong>Temps de chargement total en ms( https://tools.pingdom.com/ ): </strong> 411ms</p>
